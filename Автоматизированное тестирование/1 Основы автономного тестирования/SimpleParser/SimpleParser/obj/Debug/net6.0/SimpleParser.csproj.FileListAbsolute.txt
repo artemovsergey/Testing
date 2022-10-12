@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SimpleParser\SimpleParser\bin\Debug\net6.0\SimpleParser.exe
+C:\Users\user\Desktop\SimpleParser\SimpleParser\bin\Debug\net6.0\SimpleParser.deps.json
+C:\Users\user\Desktop\SimpleParser\SimpleParser\bin\Debug\net6.0\SimpleParser.runtimeconfig.json
+C:\Users\user\Desktop\SimpleParser\SimpleParser\bin\Debug\net6.0\SimpleParser.dll
+C:\Users\user\Desktop\SimpleParser\SimpleParser\bin\Debug\net6.0\SimpleParser.pdb
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.AssemblyInfo.cs
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.dll
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\refint\SimpleParser.dll
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.pdb
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\SimpleParser.genruntimeconfig.cache
+C:\Users\user\Desktop\SimpleParser\SimpleParser\obj\Debug\net6.0\ref\SimpleParser.dll
