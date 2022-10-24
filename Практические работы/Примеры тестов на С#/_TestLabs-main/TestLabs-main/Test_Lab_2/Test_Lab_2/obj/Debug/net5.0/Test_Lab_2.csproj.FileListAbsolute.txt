@@ -1,0 +1,12 @@
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\bin\Debug\net5.0\Test_Lab_2.deps.json
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\bin\Debug\net5.0\Test_Lab_2.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\bin\Debug\net5.0\ref\Test_Lab_2.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\bin\Debug\net5.0\Test_Lab_2.pdb
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.csprojAssemblyReference.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.AssemblyInfoInputs.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.AssemblyInfo.cs
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.csproj.CoreCompileInputs.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\ref\Test_Lab_2.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_2\Test_Lab_2\obj\Debug\net5.0\Test_Lab_2.pdb

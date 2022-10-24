@@ -1,0 +1,37 @@
+#slider-wrap{ 	width:100%;	}
+#slider{ 	width:100%;	height:50vh;	overflow: hidden;  	position:relative;}
+#slider img {	width:940px;	height:360px;}
+.slide{ 	width:100%;	height:100%;	}
+.sli-links{ margin-top:10px;	text-align:center;}
+.sli-links .control-slide{	margin:2px;	display:inline-block;	width:16px;	height:16px;	overflow:hidden;	text-indent:-9999px;
+background:url(../img/radioBg.png) center bottom no-repeat;}
+.sli-links .control-slide:hover{	cursor:pointer;	background-position:center center;}
+.sli-links .control-slide.active{	background-position:center top;}
+#prewbutton, #nextbutton{display:block;	width:15px;	height:100%;	position:absolute;	top:0;	overflow:hidden;	text-indent:-999px;	opacity:0.8;	z-index:3;	outline:none !important;
+background:url(../img/arrowBg.png) left center no-repeat;	}
+#prewbutton{left:10px;}
+#nextbutton{	right:10px;
+background:url(../img/arrowBg.png) right center no-repeat;}
+#prewbutton:hover, #nextbutton:hover{	opacity:1;}
+.z1text {
+    font-size: 20px;
+    color: #fff;
+    background: #1D8DD5;
+    width: 30vw;
+    margin-top: 150px;
+    border-right: 0px;
+    right: 0px;
+    position: absolute;
+    padding: 12px 10px;
+}
+.description {
+    font-size: 16px;
+    color: #fff;
+    background: rgba(184, 194, 201, 0.7);
+    width: 30vw;
+    margin-top: 195px;
+    border-right: 0px;
+    right: 0px;
+    position: absolute;
+    padding: 12px 10px;
+}

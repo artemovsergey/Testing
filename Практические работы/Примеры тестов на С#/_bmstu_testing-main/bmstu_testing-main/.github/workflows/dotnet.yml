@@ -1,0 +1,34 @@
+name: .NET
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 2.1.x
+    - name: Restore dependencies
+      run: dotnet restore
+      working-directory: code
+    - name: Build
+      run: dotnet build --no-restore
+      working-directory: code
+    - name: Unit Tests
+      run: dotnet test Snake.Tests --no-build --verbosity normal
+      working-directory: code
+    - name: Integration Tests
+      run: dotnet test Snake.IntegrationTests --no-build --verbosity normal
+      working-directory: code
+    - name: E2E Tests
+      run: dotnet test Snake.E2ETests --no-build --verbosity normal
+      working-directory: code

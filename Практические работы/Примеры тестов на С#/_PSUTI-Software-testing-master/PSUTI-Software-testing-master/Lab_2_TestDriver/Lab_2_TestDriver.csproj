@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net46</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AnalaizerClass.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CalcClass">
+      <HintPath>..\CalcClass.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

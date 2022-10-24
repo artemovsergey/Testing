@@ -1,0 +1,6 @@
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\ExerciseClasses\bin\Debug\ExerciseClasses.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\ExerciseClasses\bin\Debug\ExerciseClasses.pdb
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\ExerciseClasses\obj\Debug\ExerciseClasses.csprojAssemblyReference.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\ExerciseClasses\obj\Debug\ExerciseClasses.csproj.CoreCompileInputs.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\ExerciseClasses\obj\Debug\ExerciseClasses.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\ExerciseClasses\obj\Debug\ExerciseClasses.pdb

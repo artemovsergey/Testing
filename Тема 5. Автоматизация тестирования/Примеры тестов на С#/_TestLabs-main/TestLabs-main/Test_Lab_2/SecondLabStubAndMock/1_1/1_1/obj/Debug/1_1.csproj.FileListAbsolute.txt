@@ -1,6 +1,0 @@
-E:\Универ\3 курс\Тестирование ПО\SecondLabStubAndMock\1_1\1_1\bin\Debug\1_1.dll
-E:\Универ\3 курс\Тестирование ПО\SecondLabStubAndMock\1_1\1_1\bin\Debug\1_1.pdb
-E:\Универ\3 курс\Тестирование ПО\SecondLabStubAndMock\1_1\1_1\obj\Debug\1_1.csprojAssemblyReference.cache
-E:\Универ\3 курс\Тестирование ПО\SecondLabStubAndMock\1_1\1_1\obj\Debug\1_1.csproj.CoreCompileInputs.cache
-E:\Универ\3 курс\Тестирование ПО\SecondLabStubAndMock\1_1\1_1\obj\Debug\1_1.dll
-E:\Универ\3 курс\Тестирование ПО\SecondLabStubAndMock\1_1\1_1\obj\Debug\1_1.pdb

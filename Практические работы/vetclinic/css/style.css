@@ -1,0 +1,301 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', 'Open Sans', sans-serif;
+}
+
+a {
+  color: #fff;
+}
+
+.link-black {
+  color: #000;
+  text-decoration: none;
+}
+
+i {
+  font-size: 12px;
+  color: #b11313;
+}
+
+#logo {
+  width: 170px;
+}
+#logo:hover {
+  background-color: #1D8DD5;
+}
+
+#navbar ul{
+    display: none;
+    background-color: #f90;
+    position: absolute;
+    top: 100%;
+}
+#navbar li:hover ul { display: block; z-index:3; box-shadow: 0 5px 5px #575757 ;}
+#navbar, #navbar ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#navbar {
+  height: 60px;
+  background-color: #1D8DD5;
+  box-shadow: 0 0 5px #8d8c8c;
+  padding-left: 25px;
+  min-width: 470px;
+  font-size: 20px;
+}
+#navbar li {
+  float: left;
+  position: relative;
+  height: 100%;
+}
+#navbar li a {
+  display: block;
+  padding: 15px 10px 15px 10px;
+  width: 150px;
+  color: #fff;
+  border-right: 0.5px solid rgb(151, 188, 211);
+  text-decoration: none;
+  text-align: center;
+}
+#navbar ul li { float: none; }
+#navbar li:hover { background-color: rgb(250, 174, 59); }
+#navbar ul li:hover { background-color: rgb(250, 174, 59); }
+.auth {
+  position: absolute;
+  top: 20px;
+  right: 150px;
+}
+
+.popup-fade {
+  display: none;
+}
+.popup-fade:before {
+  content: '';
+  background: #000;
+  position: fixed; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%;
+  opacity: 0.7;
+  z-index: 9999;
+}
+.popup, .form-client {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  padding: 20px;
+  text-align: center;
+  width: 360px;
+  margin-left: -200px;	
+  background: #fff;
+  border: 1px solid orange;
+  border-radius: 4px; 
+  z-index: 99999;
+  opacity: 1;	
+}
+.popup-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+button {
+  background: #f90;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 0;
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: rgb(250, 174, 59);
+}
+
+input, textarea, select {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid #e4e4e4;
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  font-size: 16px;
+  margin: 15px;
+}
+
+::placeholder {
+  color:  #8d8d8d;
+}
+
+.search-inpt {
+  border-radius: 20px 0 0 20px;
+  width: 40vw;
+  margin-right: -5px;
+  margin-top: 20px;
+}
+.search-btn {
+  border-radius: 0 20px 20px 0;
+  display: inline-block;
+  margin-left: 0;
+}
+
+.order-trip {
+  position: absolute;
+  top: 7px;
+  right: 20px;
+}
+
+.calc-trip {
+  position: absolute;
+  top: 400px;
+  right: 20px;
+  box-shadow: 0 0 5px #575757 ;
+}
+#text-introduction {
+  width: 80vw;
+  margin: 0 auto;
+  line-height: 30px;
+  padding: 20px 0 20px 0;
+}
+
+h1, h3 {
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+
+h4, p {
+  margin-bottom: 5px;
+}
+
+.country {
+  width: 750px;
+  margin: 30px auto;
+}
+.country li{
+  display: inline-block;
+  text-align: center;
+  width: 180px;
+}
+
+.country li span {
+  display: block;
+}
+
+.flags {
+  width: 50px;
+  height: 50px;
+}
+
+.image-tape {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.image-tape img {
+  width: 20vw;
+}
+
+.all-tours {
+  padding: 0 20vw 0 20vw;
+  text-align: center;
+}
+
+.back-client {
+  width: 100%;
+}
+
+.tour-container {
+  display: flex;
+}
+.tour-image {
+  overflow: hidden;
+  position:relative;
+  width: 40vw;
+  height: 50vh;
+}
+
+.tour-image img {
+  position: absolute;
+  height: 100%;
+  bottom: 0px;
+}
+
+.tour-info {
+  width: 60vw;
+  flex-direction: column;
+  padding: 20px;
+}
+table {
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {background-color: #f5f5f5;}
+
+figure {
+  width: 300px;
+  height: 400px;
+  box-shadow: 0 0 5px #8d8c8c;
+  position: relative;
+  margin: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+figure:hover {
+  box-shadow: 0 0 10px #575757;
+  transition: 0.3s;
+}
+
+figure span {
+  position: absolute;
+  top: 15px;
+  left: 0px;
+
+  background: #f90;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+
+figcaption {
+  padding: 10px;
+}
+
+.info {
+  font-size: 12px;
+  color: #575757;
+}
+
+.photo-land {
+  height: 250px;
+}
+
+.big-form {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px 0 20px 0;
+}
+
+.big-form input[type="text"], .big-form textarea{
+  width: 100%;
+}
+
+footer {
+  background: #575757;
+  padding: 20px;
+  color: #e4e4e4;
+}
+

@@ -1,0 +1,8 @@
+C:\Users\artik\Desktop\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\artik\Desktop\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\artik\Desktop\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\artik\Desktop\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+C:\Users\artik\Desktop\Calc\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\artik\Desktop\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\artik\Desktop\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\artik\Desktop\Calc\Calc\obj\Debug\Calc.pdb

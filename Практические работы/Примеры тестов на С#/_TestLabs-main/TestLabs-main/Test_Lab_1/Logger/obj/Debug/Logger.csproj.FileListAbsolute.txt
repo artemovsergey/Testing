@@ -1,0 +1,6 @@
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\Logger\bin\Debug\Logger.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\Logger\bin\Debug\Logger.pdb
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\Logger\obj\Debug\Logger.dll
+D:\donnu\3 КУРС\Тестирование\Test_Lab_1\Logger\obj\Debug\Logger.pdb
