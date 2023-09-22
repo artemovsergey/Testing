@@ -36,3 +36,34 @@ LogAnalyzerTests .
             Assert.AreSame(expectedObject, actualObject, "Объекты а и b не ссылаются на один и тот же объект");
         }
 ```
+
+## TestCase
+
+```Csharp
+        [TestCase("3")]
+        [TestCase("4")]
+        [TestCase("5")]
+        [TestCase("1")]
+        [TestCase("2")]
+        public void TestMethod3(string str)
+        {
+            var a = str;
+            var b = "4";
+
+            var expectedObject = str;
+            var actualObject = b;
+
+            Assert.AreSame(expectedObject, actualObject, $"Объекты {str} и b не ссылаются на один и тот же объект");
+        }
+```
+
+
+
+щих тестов.
+Чтобы взять на себя контроль над тем, что происходит во время
+подготовки и очистки, мы воспользуемся двумя атрибутами NUnit:
+• [SetUp] – этот атрибут можно применить к методу, как и атрибут [Test]; помеченный так метод NUnit будет вызывать
+перед запуском любого теста в классе.
+• [TearDown] – этим атрибутом помечается метод, который должен вызываться после выполнения любого теста в классе.
+
+
