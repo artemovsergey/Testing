@@ -19,3 +19,20 @@ LogAnalyzerTests .
 этот атрибут в начало тестового метода.
 
 
+
+```Csharp
+        /// <summary>
+        /// Проверка ссылки на один объект
+        /// </summary>
+        [Test]
+        public void TestMethod2()
+        {
+            var a = "3";
+            var b = "4";
+
+            var expectedObject = a;
+            var actualObject = b;   
+
+            Assert.AreSame(expectedObject, actualObject, "Объекты а и b не ссылаются на один и тот же объект");
+        }
+```
