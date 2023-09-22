@@ -94,3 +94,30 @@ LogAnalyzerTests .
 ```
 
 
+# Assert.Catch<T>(delegate)
+
+
+```Csharp
+public void ExampleMethod()
+{
+    throw new ArgumentException("Параметр должен быть задан");
+}
+```
+
+```Csharp
+/// <summary>
+/// Тест на проверку выдачи исключения в методе
+/// </summary>
+/// <param name="str"></param>
+[Test]
+public void TestMethod4()
+{
+    {
+        var ex = Assert.Catch<Exception>(() => this.ExampleMethod());
+        StringAssert.Contains("Параметр должен быть задан", ex.Message);
+    }
+
+}
+```
+
+
