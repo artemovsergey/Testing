@@ -67,3 +67,22 @@ LogAnalyzerTests .
 • [TearDown] – этим атрибутом помечается метод, который должен вызываться после выполнения любого теста в классе.
 
 
+# SetUp and TearnDown
+
+Методы будут выполняться для каждого тестового метода в классе
+
+```Csharp
+        [SetUp]
+        public void TestSetUP()
+        {
+            Console.WriteLine("Настройка теста");
+        }
+
+        [TearDown]
+        public void TestTearnDown()
+        {
+            Console.WriteLine("Операции после теста");
+        }
+```
+
+
