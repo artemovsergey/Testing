@@ -1,8 +1,0 @@
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe.config
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.SuggestedBindingRedirects.cache
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
-C:\Users\artik\Desktop\GetStartedDebugging\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb

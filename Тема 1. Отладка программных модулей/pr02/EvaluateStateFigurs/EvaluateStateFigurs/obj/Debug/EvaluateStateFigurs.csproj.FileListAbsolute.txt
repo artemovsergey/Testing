@@ -1,8 +1,0 @@
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\bin\Debug\EvaluateStateFigurs.exe.config
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\bin\Debug\EvaluateStateFigurs.exe
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\bin\Debug\EvaluateStateFigurs.pdb
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\obj\Debug\EvaluateStateFigurs.csproj.AssemblyReference.cache
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\obj\Debug\EvaluateStateFigurs.csproj.SuggestedBindingRedirects.cache
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\obj\Debug\EvaluateStateFigurs.csproj.CoreCompileInputs.cache
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\obj\Debug\EvaluateStateFigurs.exe
-C:\Users\artik\Desktop\EvaluateStateFigurs\EvaluateStateFigurs\obj\Debug\EvaluateStateFigurs.pdb
