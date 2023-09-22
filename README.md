@@ -120,4 +120,19 @@ public void TestMethod4()
 }
 ```
 
+# Ignore
+
+```Csharp
+[Test]
+[Ignore("Параметр должен быть задан")]
+public void TestMethod4()
+{
+    {
+        var ex = Assert.Catch<Exception>(() => this.ExampleMethod());
+        StringAssert.Contains("Параметр должен быть задан", ex.Message);
+    }
+
+}
+```
+
 
