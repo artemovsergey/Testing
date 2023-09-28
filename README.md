@@ -1,4 +1,7 @@
 # Тестирование
+
+https://ulearn.me/Course/testing-2022/Znakomstvo_41b8e6be-7800-4c4a-9f5a-6f91dd8546cd
+
 ##  🛠️ Инструменты 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
